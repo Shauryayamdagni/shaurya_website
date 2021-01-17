@@ -1,0 +1,237 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color:#b0bfbf ;
+}
+a:link{
+    color: rgb(25, 25, 160);
+
+}
+a:visited{
+    color: brown;
+}
+a:active{
+    color: ghostwhite;
+}
+div:hover {
+    -ms-transform: scale(1.05); /* IE 9 */
+    -webkit-transform: scale(1.05); /* Safari 3-8 */
+    transform: scale(1.04); 
+    box-shadow: darkslateblue;
+  }
+  #srmlogo{
+    background-color: bisque;
+
+  }
+#logoo{
+    margin-left: 380px;
+    align-content: center;
+    }
+#cinfo{ 
+    /* margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px; */
+    border-radius: 25px;
+margin: auto;
+    padding-left: 30px;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-right: 30px;
+    background-color:#ddc9f5;
+    width: 50%;;
+    font-size:xx-large;
+}
+#clr{ 
+    margin-left: 40px;
+    
+    margin-top: 40px;
+    border-radius: 25px;
+float: left;
+padding-left: 40px;
+padding-top: 40px;
+padding-bottom: 40px;
+padding-right: 40px;
+font-size: x-large;
+width: 40%;
+background-color: bisque;
+clear: none;
+}
+#clo{ 
+    
+    margin-right: 40px;
+    margin-top: 40px;
+    border-radius: 25px;
+
+    float: right;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+    font-size: x-large;
+width: 40%;
+background-color: blanchedalmond;
+}
+#plo{ 
+    clear: both;
+    /* margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 500px;
+    border-radius: 25px; */
+    margin: auto;
+    margin-top: 500px;
+    border-radius: 25px;
+    background-color: #d9f5ce;
+    padding-left: 40px;
+padding-top: 40px;
+padding-bottom: 40px;
+padding-right: 40px;
+font-size: x-large;
+width: fit-content;
+}
+#topics{ 
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    border-radius: 25px;
+margin: auto;
+    margin-top: 30px;
+    background-color: #f5d4ce;
+    padding-left: 40px;
+padding-top: 40px;
+padding-bottom: 40px;
+padding-right: 40px;
+font-size: xx-large;
+width: fit-content;
+}
+
+.style1{
+    border-radius: 25px;
+
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 60px;
+    padding-left: 40px;
+padding-top: 40px;
+padding-bottom: 40px;
+padding-right: 40px;
+
+width: fit-content;
+font-size: x-large;
+    background-image:url(eberhard-grossgasteiger-nqYbkm8Wg_I-unsplash.jpg);
+}
+.style2{
+    border-radius: 25px;
+
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 60px;
+    padding-left: 40px;
+padding-top: 40px;
+padding-bottom: 40px;
+padding-right: 40px;
+
+width: fit-content;
+font-size: x-large;
+    background-image:url(resul-DbwYNr8RPbg-unsplash.jpg);
+}
+.style3{
+    border-radius: 25px;
+
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 60px;
+    padding-left: 40px;
+padding-top: 40px;
+padding-bottom: 40px;
+padding-right: 40px;
+
+width: fit-content;
+font-size: x-large;
+    background-image:url(2724c2bc133c3a872f3443e64ce2a2a2.jpg);
+    backdrop-filter: blur(5px);
+  
+}
+.style4{
+    border-radius: 25px;
+
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 60px;
+    padding-left: 40px;
+padding-top: 40px;
+padding-bottom: 40px;
+padding-right: 40px;
+
+width: fit-content;
+font-size: x-large;
+    background-image:url(photo-1554034483-04fda0d3507b.jpeg);
+    background-size: cover;
+    backdrop-filter: blur(5px);
+  
+}
+.style5{
+    border-radius: 25px;
+
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 60px;
+    padding-left: 40px;
+padding-top: 40px;
+padding-bottom: 40px;
+padding-right: 40px;
+
+width: fit-content;
+font-size: x-large;
+    background-image:url(50-Beautiful-and-Minimalist-Presentation-Backgrounds-026.jpg);
+    background-size: cover;
+    backdrop-filter: blur(5px);
+}
+.utube{
+    border-radius: 25px;
+color: azure;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 60px;
+    padding-left: 40px;
+padding-top: 40px;
+padding-bottom: 40px;
+padding-right: 40px;
+font-size: xx-large;
+text-decoration-color: azure;
+background-image: url("Why-using-a-dark-background-on-a-website-isnt-that-bad.jpg");
+}
+.game{
+    border-radius: 25px;
+color: azure;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 60px;
+    padding-left: 40px;
+padding-top: 40px;
+padding-bottom: 40px;
+padding-right: 40px;
+font-size: xx-large;
+text-decoration-color: azure;
+background-image: url("—Pngtree—dark blue cool background_1170155.png");
+}
+.contact{
+    border-radius: 25px;
+    color:azure;
+        margin-left: 60px;
+        margin-right: 60px;
+        margin-top: 60px;
+        padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+    font-size: large;
+    text-decoration-color:black;
+    background-image: url("Why-using-a-dark-background-on-a-website-isnt-that-bad.jpg");
+    background-size: cover;
+
+    width: fit-content;
+    float: right;
+    }
+
+}
